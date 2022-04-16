@@ -1,0 +1,11 @@
+#ignore everything in the folder of enviroment
+\venv-ml-backend
+/venv-ml-backend
+
+# ignore the dataset wich is very large
+\dataset
+/dataset
+
+# ignore the checkpoints of the notebooks 
+\.ipynb_checkpoints
+/.ipynb_checkpoints
