@@ -9,3 +9,6 @@
 # ignore the checkpoints of the notebooks 
 \.ipynb_checkpoints
 /.ipynb_checkpoints
+
+/.jpg
+\.jpg
